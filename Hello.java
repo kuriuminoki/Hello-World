@@ -2,6 +2,6 @@ public class Hello {
     public static void main(String[] args) {
         String msg = "Hello world!";
         System.out.println(msg);
-        int x = 23;
+        int x = 67;
     }
 }
