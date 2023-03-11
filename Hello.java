@@ -3,5 +3,6 @@ public class Hello {
         String msg = "Hello world!";
         System.out.println(msg);
         int x = 67;
+        System.out.println(x);
     }
 }
