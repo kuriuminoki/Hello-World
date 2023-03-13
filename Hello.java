@@ -3,6 +3,6 @@ public class Hello {
         String msg = "Hello world!";
         System.out.println(msg);
         int x = 12;//I fix B.
-        System.out.println(x);//Print x.
+        System.out.println(x * 2);//I solve issue1.
     }
 }
